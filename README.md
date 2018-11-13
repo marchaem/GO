@@ -36,6 +36,11 @@ Tutorial to launch the Go language and write a simple Hello World Program :
  - Execute the binary : ./YourEx.exe 
  
  
+ - You can also execute directly your program without pre-compiling it with the run command :
+ 
+        go run Yourprogram.go
+ 
+ 
  # On Linux and MacOS :
    - Download the Linux or MacOS archive of the go website https://golang.org/dl/
    
