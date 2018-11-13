@@ -25,7 +25,12 @@ Tutorial to launch the Go language and write a simple Hello World Program :
         }
       
       
- - Then build it with the go tool : go build in the command prompt 
+ - Then build it with the go tool : 
+ 
+        go build 
+ 
+ 
+ in the command prompt 
  
  
  - Execute the binary : ./YourEx.exe 
