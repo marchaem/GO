@@ -51,4 +51,9 @@ Tutorial to launch the Go language and write a simple Hello World Program :
    
    
    - then follow the instructions from step 3 windows 10
+   
+   
+   A fast way to install go is also to use the apt-get tool :
+   
+          sudo apt-get install golang-go
     
