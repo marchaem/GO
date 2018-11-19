@@ -1,5 +1,6 @@
 # GO
-Tutorial to launch the Go language and write a simple Hello World Program :
+Tutorial to launch the Go language and write a simple Hello World Program.
+For the full Golang tutorial , go and try the learngo.go file which contains all its funtionalities.
 
 
 # On Windows 10 :
